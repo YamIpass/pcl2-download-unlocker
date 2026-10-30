@@ -1,0 +1,20 @@
+# 构建产物
+dist/
+*.exe
+*.pdb
+*.dll
+*.obj
+
+# 备份与运行日志
+PCL2修复备份/
+*.bak
+fix-log.txt
+
+# 编辑器 / 系统
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+Thumbs.db
+desktop.ini
