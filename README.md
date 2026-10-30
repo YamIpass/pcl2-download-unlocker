@@ -2,11 +2,11 @@
 
 > 解除 PCL2 启动器里被停用的「下载 Minecraft 版本」功能。一键修复、一键回退，支持官方版 2.99.0.0 与 2.99.0.1。
 
-![选择界面](docs/picker.png)
+![选择界面](picker.png)
 
 修复后，PCL2 的「下载 → 原版游戏」页面恢复正常，可以照常安装原版、Forge、Fabric、OptiFine：
 
-![恢复后的下载页](docs/download-page.png)
+![恢复后的下载页](download-page.png)
 
 ---
 
