@@ -6,7 +6,7 @@
 $ErrorActionPreference = 'Stop'
 
 $root = Split-Path -Parent $MyInvocation.MyCommand.Path
-$source = Join-Path $root 'src\Patcher.cs'
+$source = Join-Path $root 'Patcher.cs'
 $dist = Join-Path $root 'dist'
 $target = Join-Path $dist 'PCL2下载修复工具.exe'
 
